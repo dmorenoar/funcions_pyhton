@@ -129,5 +129,3 @@ print(f"Preu amb 20% descompte: {calculate_discount(100, 20)}€")
 ```
 
 ---
-
-Fet amb ❤️ per a estudiants de Python
